@@ -1,5 +1,7 @@
-# 💫 Salut , je suis Lotso:
-🔭 Je travaille actuellement sur : Développement de serveurs FiveM avec intégration de scripts et interfaces personnalisées en HTML/CSS.<br>👯 Je cherche à collaborer sur : Des projets FiveM, création de ressources et de designs pour des serveurs RP ou autres.<br>🤝 Je cherche de l'aide pour : Optimiser les performances des scripts et intégrer de meilleures interfaces utilisateur en HTML/CSS.<br>🌱 Je suis en train d'apprendre : Améliorer mes compétences en JavaScript pour enrichir l'interactivité dans les interfaces FiveM.<br>💬 Demande-moi à propos de : La création de ressources sur FiveM, l'optimisation des interfaces utilisateur, et l'intégration HTML/CSS.<br>⚡ Fun fact : Saviez-vous que FiveM permet aux développeurs de modifier quasiment tous les aspects de GTA V, du gameplay à l'interface utilisateur ?<br>
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+
+# Salut 👋, je suis Lotso :
+🔭 Je travaille actuellement sur : Développement de serveurs FiveM actuellement sur Darkside RP avec intégration de scripts et interfaces personnalisées en HTML/CSS.<br>👯 Je cherche à collaborer sur : Des projets FiveM, création de ressources et de designs pour des serveurs RP ou autres.<br>🤝 Je cherche de l'aide pour : Optimiser les performances des scripts et intégrer de meilleures interfaces utilisateur en HTML/CSS.<br>🌱 Je suis en train d'apprendre : Améliorer mes compétences en JavaScript pour enrichir l'interactivité dans les interfaces FiveM.<br>💬 Demande-moi à propos de : La création de ressources sur FiveM, l'optimisation des interfaces utilisateur, et l'intégration HTML/CSS.<br>⚡ Fun fact : Saviez-vous que FiveM permet aux développeurs de modifier quasiment tous les aspects de GTA V, du gameplay à l'interface utilisateur ?<br>
 
 
 ## 🌐 Socials:
